@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+using_first	lib/array_methods.rb	/^def using_first(array)$/;"	f
+using_include	lib/array_methods.rb	/^def using_include(array, element)$/;"	f
+using_last	lib/array_methods.rb	/^def using_last(array)$/;"	f
+using_reverse	lib/array_methods.rb	/^def using_reverse(array)$/;"	f
+using_size	lib/array_methods.rb	/^def using_size(array)$/;"	f
+using_sort	lib/array_methods.rb	/^def using_sort(array)$/;"	f
